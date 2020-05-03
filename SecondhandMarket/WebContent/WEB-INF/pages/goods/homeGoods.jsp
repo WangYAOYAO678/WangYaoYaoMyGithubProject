@@ -303,7 +303,7 @@
     <li ng-class="{true: 'active'}[isRide]">
         <a href="<%=basePath%>goods/catelog/2" class="ride">
             <img src="<%=basePath%>img/ride.png"/>
-            <em>校园代步</em>
+            <em>代步工具</em>
         </a>
     </li>
     <li ng-class="{true: 'active'}[isCommodity]">
@@ -409,7 +409,7 @@
         描述：闲置数码
     -->
     <div class="index-title">
-        <a href="">闲置数码</a>
+        <a href="">数码</a>
         <hr class="hr1">
         <hr class="hr2">
     </div>
@@ -436,10 +436,10 @@
     </div>
     <!--
 
-        描述：校园代步
+        描述：代步工具
     -->
     <div class="index-title">
-        <a href="">校园代步</a>
+        <a href="">代步工具</a>
         <hr class="hr1">
         <hr class="hr2">
     </div>

@@ -48,7 +48,7 @@
 <body ng-view="ng-view">
 <!--
    闲置物品
-    时间：2018-2-24 13:28:16
+    时间：2020-2-24 13:28:16
     描述：顶部
 -->
 <div ng-controller="headerController" class="header stark-components navbar-fixed ng-scope">
@@ -238,7 +238,7 @@
     <li ng-class="{true: 'active'}[isRide]">
         <a href="<%=basePath%>goods/catelog/2" class="ride">
             <img src="<%=basePath%>img/ride.png"/>
-            <em>校园代步</em>
+            <em>代步工具</em>
         </a>
     </li>
     <li ng-class="{true: 'active'}[isCommodity]">
@@ -274,7 +274,7 @@
     <div class="info">
         <a href="" target="_blank">关于我们</a><em>-</em>
         <a href="">联系我们</a>
-        <p>©2018 闲置物品二手交易市场</p>
+        <p>©2020 闲置物品二手交易市场</p>
     </div>
 </div>
 <!--
@@ -305,7 +305,7 @@
                             <p><c:out value="${item.goods.name}"></c:out></p>
                         </div>
                         <div class="card-content item-location">
-                            <p>东华大学</p>
+                            <p>山东</p>
                             <p><c:out value="${item.goods.startTime}"></c:out></p>
                         </div>
                     </a>

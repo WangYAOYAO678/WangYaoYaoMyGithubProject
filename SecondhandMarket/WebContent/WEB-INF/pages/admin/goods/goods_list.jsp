@@ -108,7 +108,7 @@ table td{
 							<span> 闲置数码</span>
 							</c:if>
 							<c:if test="${item.catelogId == 2}">  
-							<span>校园代步 </span>
+							<span>代步工具 </span>
 							</c:if>
 							<c:if test="${item.catelogId == 3}">  
 							<span> 电器日用  </span>

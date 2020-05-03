@@ -239,7 +239,7 @@
     <li ng-class="{true: 'active'}[isRide]">
         <a href="<%=basePath%>goods/catelog/2" class="ride">
             <img src="<%=basePath%>img/ride.png"/>
-            <em>校园代步</em>
+            <em>代步工具</em>
         </a>
     </li>
     <li ng-class="{true: 'active'}[isCommodity]">

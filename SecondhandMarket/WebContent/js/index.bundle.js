@@ -36731,7 +36731,7 @@
 
 	    //不同页的瀑布流不一样
 	    //闲置数码 - digital
-	    //校园代步 - ride
+	    //代步工具 - ride
 	    //电器日用 - commodity
 	    //图书教材 - book
 	    //美妆衣物 - makeup
@@ -36744,7 +36744,7 @@
 	            category = '闲置数码'
 	            break;
 	        case '/category/ride':
-	            category = '校园代步'
+	            category = '代步工具'
 	            break;
 	        case '/category/commodity':
 	            category = '电器日用'
